@@ -8,6 +8,6 @@ public class p1000 {
 
         System.out.println(a+b);
 
-        in.close(); /*대체 왜 close() 메소드를 쓰는 것일까?*/
+        in.close(); /*대체 왜 close() 메소드를 쓰는 것일까? 안써도 오류가 안나던데*/
     }
 }
